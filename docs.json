@@ -1,0 +1,20 @@
+{
+  "name": "My Docs",
+  "description": "My documentation site",
+  "sidebar": [
+  {
+    "pages": [
+      {
+        "title": "Getting to know docs.page",
+        "href": "/",
+        "icon": "rocket"
+      },
+      {
+        "title": "Getting started",
+        "href": "/getting-started",
+        "icon": "arrow-right"
+      }
+    ]
+  }
+]
+}
