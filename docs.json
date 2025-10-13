@@ -1,11 +1,10 @@
 {
-  "name": "My Docs",
-  "description": "My documentation site",
+  "name": "Kapturo documentation",
   "sidebar": [
   {
     "pages": [
       {
-        "title": "Getting to know docs.page",
+        "title": "Introduction",
         "href": "/",
         "icon": "rocket"
       },
